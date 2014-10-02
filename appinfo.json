@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "edwin",
+    "longName": "Coptic v2",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Coptic v2",
+    "uuid": "675003b9-a3cf-41a6-aee0-a152b30dc3a9",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
