@@ -3,7 +3,7 @@
 Window *window;
 Layer *display_layer;
 
-char *cmonth[14] = {"NIL ", "Thout ", "Paope ", "Hathor ","Koiahk ","Tobe ","Meshir ","Paramhotep ","Parmoute ","Pashons ","Paone ","Epep ","Paope ","Nesi "};
+char *cmonth[14] = {"NIL ", "Thout ", "Paope ", "Hathor ","Koiahk ","Tobe ","Meshir ","Paramhotep ","Parmoute ","Pashons ","Paone ","Epep ","Mesore ","Nesi "};
 char timeText[16] = "Just pray.";
 char cdateText[20] = " ";
 char gdateText[20] = " ";
